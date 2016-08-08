@@ -19,6 +19,16 @@
   background-color: #000;
 }
 
+img {
+  height: 160px;
+  width: 240px;
+}
+
+.search > img {
+  height: 64px;
+  width: 64px;
+}
+
 .search-gradient {
   width: 63px;
   height: auto;
